@@ -46,8 +46,8 @@ function copyFileReestAndUpravlenie() {
   copyFile_(fileIdUpravlBack, folderId);
   copyFile_(fileScriptReinginiring, folderId);
   const recipient = 'friedmanukraine@gmail.com';
-  const subject = `отправлено скриптом Управление и Реестр`;
-  const body = `отправлено скриптом Управление и Реестр;
+  const subject = `надіслано скриптом Керування та Реєстр`;
+  const body = `надіслано скриптом Керування та Реестр;
   ${Utilities.formatDate(new Date(), Session.getTimeZone(), 'yyyy-MM-dd - HH:mm:ss')}`
   MailApp.sendEmail(recipient, subject, body) 
 }
