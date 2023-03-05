@@ -26,8 +26,13 @@ function copyFileReestAndUpravlenie() {
   https://docs.google.com/spreadsheets/d/1xdJVfecdUCgtF_SHiC_IHbl8FP0Agl3slV_osyj6kxo/edit#gid=0
   */
 
-  const fileIdUpravlBack = '1-pACMqs34-yHploR-wGWCU_KNTK6KT8CxsOwd32OzQY';
+  const fileIdUpravlBack = '1wYKgLhZJuFE_C0JkQQaUatZ06R5l5KAJi6W91yRYCu8';
+  
   /*
+  нова
+  https://docs.google.com/spreadsheets/d/1wYKgLhZJuFE_C0JkQQaUatZ06R5l5KAJi6W91yRYCu8/edit#gid=0
+  
+  стара
   https://docs.google.com/spreadsheets/d/1-pACMqs34-yHploR-wGWCU_KNTK6KT8CxsOwd32OzQY/edit#gid=0
   */
 
